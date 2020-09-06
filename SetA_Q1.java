@@ -1,4 +1,3 @@
-// 19CSU022 Aman Sharma //
 //Arrays SET-A Q.1
 
 
